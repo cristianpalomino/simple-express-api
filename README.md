@@ -27,6 +27,10 @@ Basic Expres Api, developed with the purpose of read a csv file and format the d
     },
 }
 ```
+## Instalation
+
+1. Clone Repository
+2. Run <code>npm run dev</code>
 
 ## Modules
 
